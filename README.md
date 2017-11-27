@@ -26,6 +26,6 @@ npm run e2e
 # run all tests
 npm test
 ```
-# 本文参考[这里](blog.csdn.net/hongchh/article/details/55113751)
+# 本文参考[这里](http://blog.csdn.net/hongchh/article/details/55113751)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
